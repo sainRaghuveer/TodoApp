@@ -19,7 +19,11 @@ userRoute.post("/login", (req,res)=>{
 });
 
 userRoute.get("/data", (req,res)=>{
-    
+    try{
+
+    }catch(error){
+        
+    }
 });
 
 userRoute.post("/logout", (req,res)=>{
