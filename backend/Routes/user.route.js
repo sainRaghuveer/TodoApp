@@ -10,6 +10,10 @@ userRoute.post("/login", (req,res)=>{
     
 });
 
+userRoute.get("/data", (req,res)=>{
+    
+});
+
 userRoute.post("/logout", (req,res)=>{
     
 });
