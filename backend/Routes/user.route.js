@@ -6,12 +6,16 @@ userRoute.post("/signup", (req,res)=>{
     try{
 
     }catch(error){
-        
+
     }
 });
 
 userRoute.post("/login", (req,res)=>{
-    
+    try{
+
+    }catch(error){
+        
+    }
 });
 
 userRoute.get("/data", (req,res)=>{
