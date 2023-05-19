@@ -33,3 +33,11 @@ userRoute.post("/logout", (req,res)=>{
         
     }
 });
+
+userRoute.post("/logout", (req,res)=>{
+    try{
+
+    }catch(error){
+        
+    }
+});
